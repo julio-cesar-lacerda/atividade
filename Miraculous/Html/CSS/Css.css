@@ -1,0 +1,84 @@
+body{
+    display: table;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+
+#BarraNav{
+    display: table;   
+    width: 100%;
+    background: black;
+}
+
+#topo{
+    height: 300px;
+    background: url('../Img/lanches.jpg')no-repeat center; ;
+    background-size: cover;
+  height: 500px;
+  position: relative;
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 7px 0px;
+    width: 30%;
+    float: left;
+    background: black;
+    color: white;
+}
+
+a{
+    font-size: 19px;
+    color: white;
+    text-decoration:none;
+    text-align: center;
+    padding: 5px 20px;
+}
+
+p{
+    border: solid;
+    text-align: center;
+}
+
+a:hover{
+    color: black;
+    background: white;
+}
+
+#Menu > ul > li{
+    float: left;
+}
+
+#Menu > ul{
+    display: table;
+    margin: 5px auto;
+    padding: 0px;
+    float: right;
+}
+
+#Menu{
+    background: black;
+    padding: 10px;
+    width: 68%;
+    float: right;
+}
+
+#Menu li{
+    list-style: none;
+}
+#Menu .Submenu{
+    display: none;
+}
+
+.Submenu{
+    background: black;
+    margin: 5px 0px 0px;
+    padding: 0;
+}
+
+#Menu li:hover .Submenu{
+    display:block;
+    position: absolute;
+}
