@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T15:24:54.155Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" version="15.3.7" etag="UjQndwnY4YgUmi27vxFs" type="github"><diagram id="K9HNK_yvmNbw2huUBamE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-28T15:31:29.908Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="ACOOT3ADekOqCJ3hZghH" version="15.3.7" type="github">
+  <diagram id="K9HNK_yvmNbw2huUBamE" name="Page-1">
+    <mxGraphModel dx="1929" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zLq86sVhG7eXwBaSoPcl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.35;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="zLq86sVhG7eXwBaSoPcl-1" target="zLq86sVhG7eXwBaSoPcl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLq86sVhG7eXwBaSoPcl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLq86sVhG7eXwBaSoPcl-1" target="zLq86sVhG7eXwBaSoPcl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLq86sVhG7eXwBaSoPcl-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="zLq86sVhG7eXwBaSoPcl-1" target="zLq86sVhG7eXwBaSoPcl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLq86sVhG7eXwBaSoPcl-9" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.442;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zLq86sVhG7eXwBaSoPcl-1" target="zLq86sVhG7eXwBaSoPcl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLq86sVhG7eXwBaSoPcl-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLq86sVhG7eXwBaSoPcl-2" value="acessar lista de filmes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zLq86sVhG7eXwBaSoPcl-3" value="ver quantidade total de filme" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zLq86sVhG7eXwBaSoPcl-4" value="classificar filmes por genero" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zLq86sVhG7eXwBaSoPcl-5" value="ver ano foi lancamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
